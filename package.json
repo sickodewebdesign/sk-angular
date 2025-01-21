@@ -1,7 +1,7 @@
 {
   "name": "sk-angular",
   "displayName": "SK Angular",
-  "description": "Sic Kode Web Design Angular Extension Pack",
+  "description": "Sic Kode Angular Extension Pack",
   "icon": "icon.png",
   "galleryBanner": {
     "color": "#3B82F6",
@@ -11,9 +11,9 @@
     "name": "Sergiu Waxmann",
     "email": "sergiu@sickode.com"
   },
-  "publisher": "sickodewebdesign",
+  "publisher": "sickode",
   "repository": "https://github.com/sickodewebdesign/sk-angular",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "engines": {
     "vscode": "^1.70.0"
@@ -26,6 +26,10 @@
     "Sic Kode",
     "Sic Kode Web Design",
     "SK Angular",
+    "Sic Kode Angular",
+    "Sic Kode Web Design Angular",
+    "SK Angular Extension Pack",
+    "Sic Kode Angular Extension Pack",
     "Sic Kode Web Design Angular Extension Pack"
   ],
   "extensionPack": [
