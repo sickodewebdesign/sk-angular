@@ -1,3 +1,3 @@
-# **Sic Kode Web Design** Angular Extension Pack
+# **Sic Kode** Angular Extension Pack
 
 - Angular Language Service
